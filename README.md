@@ -1,6 +1,7 @@
 # PyBer_Analysis
+
 ## Overview
-PyBer is a ride-sharing app company. They have gathered their data and would like to analyze it to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+PyBer is a ride-sharing app company. They have gathered their data and would like to analyze it to help improve access to their ride-sharing services and determine affordability for underserved neighborhoods.
 
 ---
 
@@ -35,4 +36,6 @@ The data suggests that aren't many drivers signing up for ride-sharing in rural 
 
 There may be other reasons for the low demand. It can be argued that in suburban and rural areas, there is a higher population who already own cars. In this case, increasing attracting more drivers would not give the desired result. Although suburban and rural cities have lower total fares than urban cities they average more in fare per ride and per driver. This may mean that the service is too expensive when compared to using one's own car. To attract more users, perhaps lowering the fee in these areas would be a good option to increase ridership. 
 
-Further, in rural and suburban areas, the length of the ride can be longer than in urban cities. Therefore, lowering the price may help to attract more customers. 
+Further, in rural and suburban areas, the length of the ride can be longer than in urban cities. Therefore, lowering the price based on the length of the ride may help to attract more customers. 
+
+Finally, a survey should be used to determine if reasons for using or not using the service before and after the changes are implemented to properly monitor the improvements.
