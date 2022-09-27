@@ -17,7 +17,7 @@ To create the summary table, the two datasets provided were merged together. Onc
 
 ![Ride Share Summary Table](Analysis/ride-share-summary.png)
 
-Note however that the data does not show the length of the ride which could account for the large gap seen in average fare per ride and per driver between urban and rural cities.
+From this summary table we can also see that there are 1.6X more rides than drivers in rural areas. We also see a higher amount of rides versus total drivers in suburban areas (1.3X). In contrast, There are 0.7X less rides than drivers in urban areas.
 
 To visualize the weekly fares by city type, the merged dataset was used once again to group the rides by city type and date. The total fare was then calculated for each date and added to a new table. This table was pivoted to obtain a table with city types as the columns. A snapshot of the data from January 2019 to April 2019 was taken and resampled to provide weekly fares. This new table was plotted into the below line chart to visualize the weekly fares by city type from January to April.
 
@@ -31,6 +31,8 @@ In this line chart, we can see that the weekly fares for urban cities (close to 
 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types. 
 
-The data suggests that the ride-sharing service is not used very much in rural cities. This may be because a larger portion of the population own cars and have less of a need to ride share. The data also shows that rural drivers earn more than three times more than a rural driver. Perhaps the high cost of service is deterring some potential customers. If this is the case, lowering the price for ride-sharing in rural areas may entice more people to try the service.
+The data suggests that aren't many drivers signing up for ride-sharing in rural areas. It could be that the service is not well advertised in suburban and rural areas. Perhaps a more aggressive campaign in rural areas would attract more drivers to the service. The campaign could also be extended to the suburban areas to increase the driver count in these areas as well. By increasing the number of drivers, accessibility to the service can increase. 
 
-The data shows that drivers in urban cities make on average $16.57, but have a very high volume of 
+There may be other reasons for the low demand. It can be argued that in suburban and rural areas, there is a higher population who already own cars. In this case, increasing attracting more drivers would not give the desired result. Although suburban and rural cities have lower total fares than urban cities they average more in fare per ride and per driver. This may mean that the service is too expensive when compared to using one's own car. To attract more users, perhaps lowering the fee in these areas would be a good option to increase ridership. 
+
+Further, in rural and suburban areas, the length of the ride can be longer than in urban cities. Therefore, lowering the price may help to attract more customers. 
